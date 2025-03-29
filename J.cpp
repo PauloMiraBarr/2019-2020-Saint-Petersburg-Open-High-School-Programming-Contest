@@ -87,4 +87,4 @@ int main()
     cout << add(Index[n], 1) << "\n";
 
     return 0;
-}
+}// CcrimsonAlice
